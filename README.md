@@ -27,7 +27,6 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="40" height="30"/>
    <br/>
    <img src="https://cdn-icons-png.flaticon.com/512/1053/1053367.png" alt="shellScripting" width="35" height="35"/>
-   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Frama-C_logo%2C_full.png" alt="Frama-C" width="100" height="35"/>
 </p>
 
