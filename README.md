@@ -34,7 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick9872&layout=compact&langs_count=10&hide=coq,Assembly,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=jegadit&theme=dracula)](https://github.com/jegadit)
+[![Sohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=maverick9872&theme=dracula)](https://github.com/maverick9872)
 
 [![Sohan's github trophy](https://github-profile-trophy.vercel.app/?username=maverick9872&row=1&margin-w=5)](https://github.com/maverick9872/github-profile-trophy)
 
