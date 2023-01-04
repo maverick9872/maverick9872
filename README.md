@@ -29,10 +29,9 @@
    <img src="https://cdn-icons-png.flaticon.com/512/1053/1053367.png" alt="shellScripting" width="35" height="35"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Frama-C_logo%2C_full.png" alt="Frama-C" width="100" height="35"/>
 </p>
-
 <img src="https://github-readme-stats.vercel.app/api?username=maverick9872&show_icons=true&theme=aura_dark" width="400">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick9872&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick9872&layout=compact&langs_count=10](https://github.com/anuraghazra/github-readme-stats)
 
 [![Sohan's github trophy](https://github-profile-trophy.vercel.app/?username=maverick9872&row=1&margin-w=5)](https://github.com/maverick9872/github-profile-trophy)
 
