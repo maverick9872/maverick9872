@@ -1,4 +1,7 @@
-## ( ﾟдﾟ)つHi.
+<h1>
+  ##hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <a href="https://www.linkedin.com/in/sohan-nair-7a06a2203">
   <img align="left" width="40px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  />
